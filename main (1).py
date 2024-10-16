@@ -16,4 +16,4 @@ print('4th program')
 print('123.456')
 print(123.456 * 10)
 print(int(1234.56 // 10))
-print(1 - (2 + 3))
+print(1 - (2 + 3)) #int(float('123.456') * 10 ) % 10
